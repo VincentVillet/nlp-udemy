@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints
+*.csv
+*.pkl
+*.ipynb
+
+__pycache__
+*.pyc
+
+.idea
+
+*.log
+
+course-notebooks/*
